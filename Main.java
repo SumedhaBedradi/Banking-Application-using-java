@@ -5,10 +5,11 @@ public class Main {
           Account account = new Account("121212",0,"Sumedha","sumedha@abc.com","12345");
 
 		       account.DepositMoney(500);
-		        aAccount.DepositMoney(150);
+		        account.DepositMoney(150);
 		        account.WithDrawMoney(100);
 		    
 		    }
 	}
+
 
 
